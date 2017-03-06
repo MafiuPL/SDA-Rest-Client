@@ -1,4 +1,4 @@
-package requests;
+package messages;
 
 import org.codehaus.jackson.map.annotate.JsonSerialize;
 
